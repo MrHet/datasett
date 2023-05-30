@@ -1,0 +1,1045 @@
+,school,sex,age,family_edu,traveltime,freetime,goout,Dalcohol,Walcohol,health,absences,finalgrade,study_time,id
+0,G,F,17,secondary,2,3,3,1,1,3,0,16,more than 3 hours,349
+1,G,M,16,secondary,1,3,3,1,2,3,2,11,less than 2 hours,836
+2,G,F,15,secondary,1,3,2,1,1,1,0,15,2-3 hours,706
+3,G,M,17,primary,1,4,4,3,4,5,0,14,2-3 hours,308
+4,G,F,15,higher education,2,2,2,2,2,5,0,12,more than 3 hours,131
+5,G,M,15,higher education,1,3,3,1,3,5,0,12,less than 2 hours,13
+6,G,F,18,higher education,2,3,3,1,1,3,18,10,2-3 hours,254
+7,G,M,17,secondary,2,5,2,1,1,1,0,13,2-3 hours,246
+8,G,M,18,higher education,1,3,3,1,3,5,6,17,2-3 hours,397
+9,G,F,16,secondary,1,4,3,1,3,4,6,10,2-3 hours,851
+10,G,M,19,secondary,2,4,4,1,1,1,9,10,2-3 hours,362
+11,G,M,17,secondary,1,3,4,2,3,4,12,11,2-3 hours,835
+12,G,F,17,secondary,1,2,2,1,2,5,23,13,2-3 hours,970
+13,G,M,16,secondary,2,3,3,1,3,2,0,12,more than 3 hours,250
+14,G,F,18,secondary,1,2,2,1,1,3,0,17,2-3 hours,413
+15,G,M,19,secondary,1,5,4,1,1,4,0,0,less than 2 hours,803
+16,G,M,17,higher education,3,4,5,2,4,5,2,10,2-3 hours,141
+17,G,M,17,primary,1,3,3,1,2,4,2,11,2-3 hours,935
+18,G,F,17,secondary,1,2,3,1,1,4,2,17,more than 3 hours,290
+19,G,F,18,primary,2,5,5,1,2,2,0,14,more than 3 hours,377
+20,G,F,17,secondary,2,3,3,1,1,3,0,14,more than 3 hours,952
+21,G,M,15,higher education,1,4,3,1,2,4,6,13,less than 2 hours,769
+22,G,F,15,primary,2,4,2,1,1,5,0,10,less than 2 hours,158
+23,G,F,16,secondary,1,4,3,1,3,4,4,12,2-3 hours,216
+24,G,M,17,secondary,2,4,4,4,5,5,16,12,2-3 hours,207
+25,G,F,16,secondary,1,1,2,1,1,2,4,11,more than 3 hours,112
+26,G,F,17,secondary,1,3,1,1,2,4,0,0,2-3 hours,993
+27,G,M,17,primary,1,4,4,3,4,5,2,10,2-3 hours,916
+28,G,M,15,secondary,2,2,2,1,1,3,0,0,more than 3 hours,790
+29,G,M,15,primary,4,5,5,2,5,5,0,11,less than 2 hours,163
+30,G,F,16,primary,1,3,5,1,1,5,0,12,2-3 hours,98
+31,G,F,17,higher education,1,4,2,2,3,5,0,17,2-3 hours,832
+32,G,M,18,secondary,1,1,3,4,5,4,13,14,less than 2 hours,419
+33,G,F,16,primary,4,1,3,1,1,3,0,13,2-3 hours,142
+34,G,M,22,primary,1,4,5,5,5,1,12,5,less than 2 hours,280
+35,G,F,16,higher education,1,5,2,1,2,3,0,10,2-3 hours,849
+36,G,M,15,secondary,1,3,2,1,1,2,0,12,2-3 hours,683
+37,G,F,17,primary,1,1,2,1,1,3,6,13,less than 2 hours,407
+38,G,F,16,secondary,1,3,5,1,5,2,2,15,2-3 hours,215
+39,G,M,16,higher education,2,4,3,1,1,5,4,13,more than 3 hours,38
+40,G,M,18,higher education,1,3,5,1,4,2,9,15,2-3 hours,410
+41,G,F,16,secondary,1,3,5,1,1,3,0,8,more than 3 hours,749
+42,G,F,18,primary,2,4,4,1,1,3,10,11,more than 3 hours,276
+43,G,F,15,secondary,1,3,2,2,3,1,24,9,2-3 hours,151
+44,G,M,16,higher education,1,2,4,2,4,1,2,13,2-3 hours,883
+45,G,M,16,primary,1,2,3,1,2,5,0,16,2-3 hours,202
+46,G,M,16,higher education,1,4,5,5,5,5,4,12,2-3 hours,30
+47,G,M,15,secondary,1,5,2,1,1,5,0,16,2-3 hours,682
+48,G,F,18,secondary,1,3,3,1,1,3,0,14,more than 3 hours,948
+49,G,F,18,primary,2,2,2,1,1,3,1,12,more than 3 hours,932
+50,G,F,16,higher education,1,4,5,1,1,4,2,14,more than 3 hours,110
+51,G,F,16,secondary,1,2,3,1,1,3,0,16,2-3 hours,817
+52,G,F,17,secondary,2,2,2,2,3,5,10,11,more than 3 hours,274
+53,G,F,17,higher education,1,2,1,1,1,4,0,13,less than 2 hours,168
+54,G,M,18,secondary,1,3,2,1,1,3,1,12,more than 3 hours,912
+55,G,M,18,secondary,1,4,2,1,2,5,6,15,less than 2 hours,388
+56,G,M,15,secondary,1,2,2,1,2,5,8,12,less than 2 hours,27
+57,G,F,16,higher education,1,4,4,2,3,4,6,11,2-3 hours,710
+58,G,M,16,secondary,3,3,4,3,5,3,16,12,less than 2 hours,212
+59,G,M,15,secondary,1,4,4,1,1,1,2,8,2-3 hours,805
+60,G,F,17,primary,2,3,4,2,2,1,10,15,2-3 hours,404
+61,G,F,17,secondary,1,4,1,1,1,2,0,0,more than 3 hours,909
+62,G,M,16,secondary,1,4,4,1,1,3,0,13,2-3 hours,7
+63,G,M,16,higher education,1,3,2,1,2,5,0,12,less than 2 hours,893
+64,G,M,19,secondary,1,3,1,1,1,1,4,14,2-3 hours,296
+65,G,F,16,secondary,1,1,2,1,1,5,6,13,2-3 hours,762
+66,G,F,17,higher education,1,4,2,2,3,5,0,17,2-3 hours,197
+67,G,F,18,secondary,1,3,3,1,2,2,0,18,more than 3 hours,333
+68,G,M,18,secondary,1,5,4,3,5,2,16,8,2-3 hours,264
+69,G,F,18,secondary,1,4,3,2,3,1,4,17,more than 3 hours,400
+70,G,M,16,secondary,1,4,5,1,1,3,0,0,less than 2 hours,892
+71,G,M,15,secondary,2,3,3,1,3,4,4,15,2-3 hours,733
+72,G,F,16,secondary,1,4,4,1,1,5,0,11,2-3 hours,125
+73,G,F,18,primary,1,3,3,1,1,4,16,7,2-3 hours,875
+74,G,M,17,primary,1,3,3,1,2,4,0,12,2-3 hours,332
+75,G,M,17,secondary,4,4,5,5,5,4,8,10,less than 2 hours,977
+76,G,F,15,primary,3,5,5,1,1,1,2,9,less than 2 hours,149
+77,G,M,17,higher education,1,4,2,1,2,4,2,15,more than 3 hours,412
+78,G,F,19,higher education,2,3,4,2,3,2,2,13,2-3 hours,342
+79,G,F,16,secondary,1,3,3,1,1,2,6,13,2-3 hours,205
+80,G,M,15,secondary,1,2,2,1,1,1,0,19,2-3 hours,658
+81,G,M,15,higher education,1,4,2,1,1,5,0,12,less than 2 hours,22
+82,G,M,18,secondary,2,4,5,2,4,5,0,8,less than 2 hours,900
+83,G,F,18,primary,1,3,4,1,3,5,2,13,2-3 hours,289
+84,G,M,16,secondary,1,3,2,2,4,5,0,11,less than 2 hours,282
+85,G,M,18,higher education,1,3,3,2,2,2,0,13,2-3 hours,396
+86,G,F,20,primary,2,2,3,1,2,2,8,12,2-3 hours,300
+87,G,F,17,secondary,1,3,1,1,2,4,18,14,2-3 hours,398
+88,G,M,16,primary,2,3,2,1,3,3,2,12,less than 2 hours,286
+89,G,F,16,secondary,1,3,4,1,1,4,0,14,2-3 hours,862
+90,G,F,15,higher education,1,2,2,1,1,5,2,13,more than 3 hours,154
+91,G,F,18,secondary,1,3,3,1,1,1,4,15,more than 3 hours,394
+92,G,F,17,secondary,2,2,1,1,1,3,2,14,2-3 hours,356
+93,G,F,17,higher education,1,4,4,1,1,5,2,17,less than 2 hours,357
+94,G,F,16,higher education,1,2,1,1,4,5,12,14,less than 2 hours,136
+95,G,F,18,secondary,1,3,4,1,1,4,8,12,2-3 hours,389
+96,G,M,16,secondary,2,4,2,1,1,5,0,13,less than 2 hours,767
+97,G,F,17,higher education,1,4,3,1,1,5,0,15,more than 3 hours,387
+98,G,F,16,secondary,1,1,2,1,1,5,12,10,2-3 hours,113
+99,G,M,15,secondary,1,3,2,1,2,5,4,11,more than 3 hours,731
+100,G,M,18,secondary,1,3,2,1,4,5,11,11,2-3 hours,940
+101,G,F,16,higher education,1,4,3,1,2,3,12,5,2-3 hours,729
+102,G,M,17,secondary,1,1,3,1,5,3,6,10,2-3 hours,204
+103,G,F,18,secondary,2,1,4,1,3,4,10,17,2-3 hours,421
+104,G,F,16,primary,4,5,5,5,5,5,6,11,less than 2 hours,711
+105,G,F,16,secondary,2,3,5,1,1,5,6,11,more than 3 hours,854
+106,G,F,17,secondary,1,2,3,1,1,4,6,13,more than 3 hours,906
+107,G,F,17,secondary,2,3,3,2,3,2,0,15,more than 3 hours,376
+108,G,F,17,secondary,1,3,2,2,2,3,0,10,more than 3 hours,374
+109,G,M,17,secondary,1,4,2,5,5,4,4,13,2-3 hours,886
+110,G,M,16,secondary,2,3,3,1,1,4,2,15,less than 2 hours,746
+111,G,F,17,higher education,1,4,5,1,3,5,16,15,more than 3 hours,985
+112,G,F,17,primary,2,2,3,1,2,3,10,12,more than 3 hours,879
+113,G,M,18,higher education,1,2,5,3,4,5,2,11,less than 2 hours,369
+114,G,F,17,higher education,1,3,4,1,2,5,2,17,less than 2 hours,365
+115,G,M,18,secondary,1,4,5,2,3,5,0,14,more than 3 hours,402
+116,G,F,16,secondary,1,2,3,1,3,3,1,13,more than 3 hours,78
+117,G,M,16,primary,1,4,4,3,5,5,6,14,less than 2 hours,801
+118,G,F,15,secondary,1,3,2,1,1,3,2,11,2-3 hours,159
+119,G,F,17,higher education,1,4,4,1,3,4,7,9,more than 3 hours,978
+120,G,M,17,secondary,1,2,2,3,3,5,14,10,less than 2 hours,170
+121,G,F,15,primary,2,4,2,2,3,3,6,15,more than 3 hours,70
+122,G,F,18,primary,2,3,5,1,2,3,0,0,2-3 hours,919
+123,G,M,17,higher education,1,3,5,4,5,3,15,12,2-3 hours,226
+124,G,F,16,secondary,1,4,4,2,4,4,0,13,more than 3 hours,64
+125,G,M,20,secondary,1,5,3,1,1,5,0,15,less than 2 hours,352
+126,G,F,16,higher education,1,3,2,1,1,5,0,14,more than 3 hours,874
+127,G,F,15,primary,1,3,2,2,3,3,6,12,2-3 hours,3
+128,G,M,16,secondary,1,4,2,1,2,5,6,13,2-3 hours,6
+129,G,F,17,secondary,2,4,2,1,1,4,0,12,more than 3 hours,224
+130,G,F,16,secondary,1,3,2,1,1,1,10,13,2-3 hours,857
+131,G,F,18,secondary,1,3,3,1,1,2,0,0,2-3 hours,983
+132,G,F,18,primary,1,4,3,1,1,5,12,13,2-3 hours,942
+133,G,F,16,secondary,1,2,2,1,2,1,8,16,2-3 hours,199
+134,G,M,17,secondary,1,4,3,1,3,5,0,15,less than 2 hours,341
+135,G,M,22,primary,1,4,5,5,5,1,16,8,less than 2 hours,897
+136,G,M,15,higher education,1,2,2,1,1,5,4,15,2-3 hours,707
+137,G,M,15,secondary,1,3,3,2,2,5,2,14,2-3 hours,698
+138,G,M,17,secondary,1,3,4,1,4,4,4,10,2-3 hours,192
+139,G,F,15,higher education,1,3,3,1,2,2,2,14,2-3 hours,11
+140,G,F,15,secondary,1,3,2,1,1,5,6,13,2-3 hours,160
+141,G,M,16,secondary,1,3,3,1,1,5,4,14,more than 3 hours,108
+142,G,M,16,primary,1,4,4,1,3,5,0,12,2-3 hours,788
+143,G,F,18,higher education,1,4,3,1,1,3,8,12,2-3 hours,955
+144,G,F,16,secondary,2,3,3,1,2,3,16,10,2-3 hours,41
+145,G,F,16,secondary,1,3,4,1,1,4,0,13,2-3 hours,227
+146,G,F,18,secondary,2,1,1,1,1,5,75,9,2-3 hours,926
+147,G,F,16,secondary,1,2,3,1,3,3,0,11,more than 3 hours,727
+148,G,F,18,secondary,1,3,3,1,2,3,0,14,more than 3 hours,399
+149,G,M,17,primary,1,4,5,1,2,5,22,6,less than 2 hours,156
+150,G,F,15,secondary,1,2,2,1,1,5,4,11,2-3 hours,46
+151,G,F,21,higher education,1,3,2,1,1,5,0,12,more than 3 hours,408
+152,G,F,17,secondary,1,4,3,1,3,4,0,13,more than 3 hours,403
+153,G,M,18,higher education,1,3,3,2,2,3,3,11,more than 3 hours,975
+154,G,F,16,secondary,2,3,2,1,1,5,0,0,less than 2 hours,787
+155,G,F,16,secondary,1,3,5,1,4,3,6,13,2-3 hours,47
+156,G,F,17,higher education,1,4,5,1,3,5,8,14,more than 3 hours,392
+157,G,M,18,secondary,1,4,4,1,3,3,11,12,2-3 hours,409
+158,G,F,18,secondary,1,3,3,1,2,2,5,19,more than 3 hours,936
+159,G,M,16,secondary,1,2,3,1,2,3,2,12,2-3 hours,831
+160,G,F,17,higher education,1,4,3,1,1,5,7,14,more than 3 hours,981
+161,G,F,16,secondary,1,4,3,1,1,1,0,10,2-3 hours,63
+162,G,M,16,none,2,3,2,1,1,3,0,18,2-3 hours,186
+163,G,F,15,higher education,1,4,4,1,1,3,2,7,2-3 hours,699
+164,G,M,16,higher education,3,4,5,2,4,2,0,0,less than 2 hours,820
+165,G,F,18,secondary,1,3,5,2,4,5,2,10,less than 2 hours,372
+166,G,F,16,secondary,1,2,3,1,1,5,2,16,2-3 hours,60
+167,G,F,16,higher education,1,4,4,2,3,4,0,16,2-3 hours,61
+168,G,F,16,primary,4,5,5,5,5,5,0,16,less than 2 hours,62
+169,G,M,15,higher education,1,5,3,1,1,4,4,14,less than 2 hours,111
+170,G,M,17,secondary,1,3,5,3,5,5,3,16,less than 2 hours,976
+171,G,M,15,secondary,1,4,4,1,1,1,0,8,2-3 hours,169
+172,G,M,16,primary,2,3,2,1,1,5,0,15,more than 3 hours,720
+173,G,F,15,secondary,2,1,3,1,3,4,0,11,2-3 hours,69
+174,G,F,19,secondary,1,1,2,1,1,3,40,11,more than 3 hours,965
+175,G,F,19,secondary,1,3,5,3,3,5,15,9,2-3 hours,920
+176,G,F,17,secondary,1,4,4,1,3,5,12,12,less than 2 hours,782
+177,G,M,15,secondary,1,3,3,1,1,3,0,10,more than 3 hours,72
+178,G,F,16,secondary,1,3,4,1,2,2,6,11,2-3 hours,87
+179,G,M,15,secondary,1,3,3,2,3,5,0,11,2-3 hours,76
+180,G,M,16,higher education,1,4,4,1,2,5,2,16,2-3 hours,765
+181,G,M,19,higher education,2,3,4,1,1,4,38,8,less than 2 hours,957
+182,G,F,16,higher education,1,4,3,1,2,3,14,11,2-3 hours,80
+183,G,F,17,secondary,1,2,2,1,2,5,14,17,2-3 hours,366
+184,G,F,15,primary,3,2,2,1,1,4,4,12,more than 3 hours,661
+185,G,F,15,secondary,1,4,4,1,1,5,4,11,2-3 hours,83
+186,G,F,15,primary,3,3,3,1,2,4,0,0,less than 2 hours,781
+187,G,F,16,secondary,1,3,1,1,1,3,0,14,2-3 hours,237
+188,G,F,16,primary,2,3,2,1,4,5,2,13,less than 2 hours,223
+189,G,F,15,secondary,1,3,3,1,3,1,4,15,more than 3 hours,88
+190,G,F,17,secondary,1,4,5,2,4,1,22,4,2-3 hours,866
+191,G,M,16,secondary,1,4,3,1,1,5,0,15,less than 2 hours,684
+192,G,M,17,higher education,1,5,5,1,3,2,0,13,2-3 hours,247
+193,G,F,17,primary,2,2,3,1,2,3,0,16,more than 3 hours,244
+194,G,F,17,secondary,1,3,3,1,1,4,0,13,more than 3 hours,234
+195,G,F,15,secondary,1,3,1,1,1,2,8,13,less than 2 hours,689
+196,G,F,19,secondary,2,2,3,3,4,5,16,11,less than 2 hours,406
+197,G,F,17,primary,3,2,2,1,2,5,8,11,less than 2 hours,133
+198,G,M,15,secondary,1,5,2,1,1,3,0,16,more than 3 hours,664
+199,G,M,17,secondary,1,1,3,1,5,3,4,10,2-3 hours,839
+200,G,M,21,primary,2,3,3,5,2,4,21,10,2-3 hours,414
+201,G,F,16,secondary,1,3,2,1,2,5,4,10,2-3 hours,654
+202,G,F,19,primary,3,4,1,1,1,2,20,13,2-3 hours,961
+203,G,M,15,higher education,1,3,3,1,1,5,2,12,less than 2 hours,103
+204,G,M,16,primary,1,3,2,2,2,5,0,14,less than 2 hours,74
+205,G,M,15,secondary,1,4,3,1,1,4,0,14,more than 3 hours,37
+206,G,F,15,secondary,1,3,3,1,1,5,2,13,2-3 hours,701
+207,G,F,16,secondary,1,2,2,1,2,1,14,12,2-3 hours,834
+208,G,M,15,higher education,4,3,5,3,5,1,8,11,more than 3 hours,109
+209,G,F,18,secondary,2,1,1,1,1,3,14,7,less than 2 hours,256
+210,G,M,16,secondary,1,2,2,1,1,2,2,17,more than 3 hours,48
+211,G,M,15,secondary,1,4,1,1,1,1,0,15,2-3 hours,670
+212,G,F,19,higher education,1,2,5,4,4,5,5,11,less than 2 hours,416
+213,G,F,15,primary,2,1,2,1,1,1,2,10,more than 3 hours,745
+214,G,F,18,primary,2,2,2,1,1,3,2,18,more than 3 hours,328
+215,G,M,16,higher education,1,3,2,2,1,5,0,0,less than 2 hours,798
+216,G,F,18,higher education,2,3,4,2,2,4,8,12,2-3 hours,309
+217,G,M,18,secondary,2,4,4,2,4,4,10,11,less than 2 hours,325
+218,G,F,18,secondary,2,1,1,1,1,5,15,10,2-3 hours,319
+219,G,F,17,primary,2,3,3,1,3,5,4,15,more than 3 hours,266
+220,G,M,17,higher education,2,1,1,2,2,5,0,10,less than 2 hours,951
+221,G,F,18,higher education,1,4,4,1,1,1,4,14,less than 2 hours,364
+222,G,M,15,higher education,1,5,5,3,2,5,2,9,less than 2 hours,126
+223,G,M,19,secondary,1,5,2,2,2,4,3,11,2-3 hours,962
+224,G,M,17,primary,2,4,4,1,2,5,2,8,less than 2 hours,905
+225,G,F,18,higher education,2,3,4,2,2,4,8,11,2-3 hours,917
+226,G,F,17,secondary,1,3,3,2,3,2,4,10,2-3 hours,989
+227,G,F,15,higher education,2,3,2,1,1,5,6,14,less than 2 hours,148
+228,G,F,18,primary,1,4,5,1,3,5,10,8,2-3 hours,132
+229,G,F,16,primary,1,3,4,1,1,2,2,12,2-3 hours,56
+230,G,F,16,higher education,1,4,2,1,1,3,0,14,2-3 hours,819
+231,G,M,16,primary,4,2,1,1,1,2,4,11,less than 2 hours,137
+232,G,M,17,higher education,2,3,3,2,3,4,0,12,2-3 hours,269
+233,G,F,17,secondary,3,2,3,1,1,1,8,15,more than 3 hours,322
+234,G,F,16,secondary,3,3,2,1,1,4,4,10,2-3 hours,667
+235,G,M,16,secondary,1,5,5,4,4,5,0,1,2-3 hours,173
+236,G,M,18,primary,1,2,5,2,5,5,4,8,less than 2 hours,902
+237,G,F,16,secondary,2,3,2,1,1,5,4,10,less than 2 hours,146
+238,G,F,17,secondary,1,2,3,1,1,4,4,9,more than 3 hours,913
+239,G,M,16,higher education,1,3,3,1,1,5,4,11,2-3 hours,678
+240,G,F,19,secondary,2,2,2,1,2,1,22,11,2-3 hours,963
+241,G,F,16,secondary,1,4,4,2,4,4,2,9,more than 3 hours,713
+242,G,F,15,secondary,1,4,4,2,4,2,0,10,2-3 hours,714
+243,G,M,16,secondary,2,3,3,2,2,2,4,11,less than 2 hours,153
+244,G,F,16,primary,1,3,3,2,2,4,5,7,2-3 hours,856
+245,G,F,16,higher education,1,4,4,1,2,2,4,14,less than 2 hours,665
+246,G,F,16,secondary,1,3,4,1,1,5,12,11,less than 2 hours,138
+247,G,M,17,secondary,1,4,4,1,2,5,10,18,2-3 hours,417
+248,G,M,17,primary,1,4,5,1,2,5,0,0,less than 2 hours,794
+249,G,M,16,higher education,1,4,5,5,5,5,16,11,2-3 hours,679
+250,G,F,18,higher education,1,4,4,3,3,5,0,13,2-3 hours,363
+251,G,M,19,secondary,1,3,4,2,2,5,0,10,less than 2 hours,385
+252,G,F,17,higher education,2,3,4,1,1,5,0,8,more than 3 hours,348
+253,G,M,17,primary,2,5,1,1,1,3,0,10,less than 2 hours,79
+254,G,F,15,higher education,2,3,2,1,1,5,0,15,less than 2 hours,789
+255,G,M,16,secondary,1,2,3,1,2,3,0,13,2-3 hours,196
+256,G,M,18,secondary,1,5,5,2,4,5,2,8,more than 3 hours,980
+257,G,F,15,secondary,2,3,5,1,1,2,16,10,2-3 hours,104
+258,G,M,17,primary,2,3,2,2,2,5,8,9,less than 2 hours,175
+259,G,M,19,primary,2,3,1,1,1,5,0,11,more than 3 hours,351
+260,G,F,18,secondary,1,1,2,1,2,1,4,13,2-3 hours,423
+261,G,F,19,primary,3,5,5,4,3,5,12,11,more than 3 hours,370
+262,G,M,19,secondary,1,5,4,1,1,4,6,11,less than 2 hours,167
+263,G,M,16,secondary,2,3,3,1,1,4,6,11,less than 2 hours,97
+264,G,M,18,higher education,2,2,5,3,4,1,13,17,2-3 hours,915
+265,G,F,16,higher education,1,4,2,1,1,3,0,17,2-3 hours,184
+266,G,M,15,higher education,4,3,3,1,1,5,2,11,2-3 hours,139
+267,G,F,20,primary,2,2,2,1,3,3,8,15,more than 3 hours,415
+268,G,F,16,secondary,1,3,3,2,4,5,54,11,2-3 hours,724
+269,G,F,17,secondary,1,2,2,1,2,3,0,18,more than 3 hours,338
+270,G,M,15,higher education,1,4,4,1,1,1,0,16,2-3 hours,105
+271,G,F,16,secondary,2,4,4,1,4,5,0,14,2-3 hours,191
+272,G,F,15,secondary,2,3,5,1,1,2,26,6,2-3 hours,753
+273,G,F,17,higher education,1,3,1,1,4,5,2,12,2-3 hours,272
+274,G,M,17,higher education,1,4,4,1,3,5,0,10,2-3 hours,187
+275,G,M,15,secondary,1,4,1,1,1,1,0,11,less than 2 hours,693
+276,G,F,16,higher education,1,2,1,1,4,5,16,11,less than 2 hours,783
+277,G,M,19,secondary,1,4,4,1,1,3,20,13,2-3 hours,954
+278,G,M,16,higher education,1,2,4,2,4,1,0,14,2-3 hours,248
+279,G,M,17,secondary,1,3,4,2,3,4,6,14,2-3 hours,200
+280,G,F,15,higher education,1,3,2,1,1,5,2,12,more than 3 hours,39
+281,G,M,15,secondary,2,4,4,1,4,3,6,7,2-3 hours,811
+282,G,F,16,secondary,1,1,2,1,1,2,0,10,more than 3 hours,761
+283,G,F,17,higher education,1,3,4,2,5,5,2,17,more than 3 hours,360
+284,G,M,16,secondary,1,5,5,4,4,5,4,12,2-3 hours,809
+285,G,M,16,secondary,1,3,2,3,4,5,0,10,less than 2 hours,208
+286,G,M,15,secondary,1,3,2,1,1,5,0,14,2-3 hours,59
+287,G,F,17,higher education,1,3,2,1,1,5,8,16,2-3 hours,210
+288,G,F,16,secondary,2,3,3,2,2,5,14,11,2-3 hours,45
+289,G,F,16,higher education,1,5,2,1,2,3,0,11,2-3 hours,214
+290,G,F,16,primary,1,3,3,2,3,2,0,12,2-3 hours,93
+291,G,F,17,higher education,1,3,4,2,5,5,0,10,more than 3 hours,968
+292,G,M,16,primary,1,2,3,1,2,5,0,15,2-3 hours,837
+293,G,F,18,primary,2,3,3,1,2,1,2,15,2-3 hours,355
+294,G,M,15,secondary,2,3,3,1,3,4,2,13,2-3 hours,84
+295,G,M,16,higher education,3,4,5,2,4,2,4,10,less than 2 hours,185
+296,G,M,20,secondary,1,5,3,1,1,5,0,18,less than 2 hours,956
+297,G,F,17,secondary,2,3,3,1,4,3,3,8,less than 2 hours,868
+298,G,M,17,secondary,1,2,3,1,1,2,4,11,2-3 hours,829
+299,G,M,18,higher education,1,4,3,1,1,2,9,15,2-3 hours,939
+300,G,F,18,secondary,1,1,4,1,1,3,8,14,2-3 hours,361
+301,G,F,16,secondary,1,2,3,1,1,5,2,16,2-3 hours,709
+302,G,F,16,secondary,1,3,5,1,5,2,2,16,2-3 hours,850
+303,G,F,16,secondary,1,3,3,1,3,4,0,8,more than 3 hours,740
+304,G,F,17,higher education,2,3,3,1,2,4,4,14,more than 3 hours,979
+305,G,M,17,secondary,1,3,5,3,5,5,0,17,less than 2 hours,379
+306,G,M,18,higher education,1,3,3,2,2,2,0,0,2-3 hours,991
+307,G,F,16,primary,2,3,3,1,2,1,8,11,less than 2 hours,145
+308,G,F,17,primary,1,3,4,1,1,5,12,12,more than 3 hours,236
+309,G,F,17,primary,1,4,3,2,3,5,1,15,more than 3 hours,973
+310,G,F,17,secondary,1,2,2,1,2,5,0,18,more than 3 hours,350
+311,G,M,15,higher education,1,4,2,3,4,5,0,11,2-3 hours,31
+312,G,F,17,higher education,2,2,4,2,3,2,30,16,less than 2 hours,213
+313,G,M,15,higher education,2,3,1,1,1,5,2,15,2-3 hours,32
+314,G,F,18,primary,2,4,4,1,1,4,4,10,2-3 hours,933
+315,G,F,17,primary,2,1,2,1,1,3,0,19,more than 3 hours,339
+316,G,F,19,primary,1,4,2,1,1,5,0,11,2-3 hours,128
+317,G,F,15,primary,3,2,2,1,1,4,0,13,more than 3 hours,12
+318,G,F,16,primary,1,3,3,2,2,4,2,12,2-3 hours,221
+319,G,F,15,primary,1,3,2,2,3,4,2,10,2-3 hours,734
+320,G,F,16,primary,1,3,3,1,2,5,0,13,2-3 hours,253
+321,G,F,15,secondary,1,2,3,1,2,1,0,14,2-3 hours,121
+322,G,M,16,secondary,3,2,2,1,2,3,4,11,less than 2 hours,172
+323,G,M,16,secondary,1,3,3,3,4,3,8,11,less than 2 hours,193
+324,G,F,17,primary,1,3,3,1,1,3,2,11,2-3 hours,2
+325,G,F,17,primary,1,3,4,1,2,5,4,11,2-3 hours,278
+326,G,M,18,secondary,1,2,4,2,4,4,13,8,2-3 hours,867
+327,G,F,18,secondary,1,3,4,1,1,4,0,0,2-3 hours,982
+328,G,F,16,secondary,3,3,3,2,3,4,0,13,2-3 hours,51
+329,G,M,16,secondary,1,4,3,2,3,3,4,11,2-3 hours,195
+330,G,M,18,secondary,1,3,2,1,4,5,2,16,2-3 hours,337
+331,G,M,17,secondary,2,5,5,1,4,5,8,15,2-3 hours,268
+332,G,F,16,secondary,1,2,2,1,3,5,6,12,less than 2 hours,26
+333,G,M,16,higher education,1,3,2,1,2,5,4,15,less than 2 hours,271
+334,G,M,16,secondary,1,3,5,2,4,4,0,11,2-3 hours,181
+335,G,F,16,secondary,1,1,5,1,1,4,0,13,2-3 hours,183
+336,G,F,18,secondary,1,3,3,1,1,2,0,12,2-3 hours,390
+337,G,M,15,primary,1,4,2,1,1,5,8,9,2-3 hours,764
+338,G,F,16,secondary,1,2,3,1,1,3,0,18,2-3 hours,182
+339,G,F,16,primary,1,3,3,1,2,5,0,10,more than 3 hours,68
+340,G,M,15,secondary,1,4,3,1,1,4,2,18,more than 3 hours,686
+341,G,F,17,secondary,1,3,2,2,2,3,3,11,more than 3 hours,972
+342,G,F,16,secondary,1,3,5,1,1,3,0,0,2-3 hours,823
+343,G,F,17,primary,1,3,3,1,1,3,4,6,2-3 hours,651
+344,G,F,17,higher education,1,2,1,1,2,3,6,11,less than 2 hours,229
+345,G,M,15,secondary,2,5,5,3,4,5,6,10,less than 2 hours,702
+346,G,F,17,primary,3,1,1,1,1,3,2,13,2-3 hours,262
+347,G,F,18,higher education,2,3,4,1,1,3,4,11,2-3 hours,1
+348,G,M,17,primary,4,3,5,1,5,5,0,8,2-3 hours,179
+349,G,F,20,none,2,3,1,1,1,5,5,10,less than 2 hours,422
+350,G,M,15,secondary,1,3,2,1,2,5,2,9,more than 3 hours,82
+351,G,F,19,secondary,1,3,3,1,1,5,0,11,2-3 hours,291
+352,G,F,15,primary,2,4,2,2,3,3,12,16,more than 3 hours,719
+353,G,F,18,primary,1,4,3,2,3,3,4,14,more than 3 hours,294
+354,G,F,17,secondary,1,3,3,1,1,5,0,13,2-3 hours,367
+355,G,M,15,secondary,2,4,3,1,2,3,2,11,2-3 hours,663
+356,G,F,15,secondary,1,1,2,1,1,3,4,10,more than 3 hours,107
+357,G,M,17,secondary,2,4,4,1,4,3,4,8,2-3 hours,176
+358,G,F,18,secondary,1,5,5,1,3,2,10,16,more than 3 hours,313
+359,G,F,18,secondary,1,1,2,1,3,2,2,15,2-3 hours,301
+360,G,M,18,secondary,1,3,2,1,1,3,2,11,2-3 hours,302
+361,G,F,17,higher education,1,4,4,1,3,4,0,13,more than 3 hours,381
+362,G,F,15,primary,2,1,2,1,1,1,4,13,more than 3 hours,96
+363,G,M,16,higher education,1,1,3,3,5,5,6,10,2-3 hours,90
+364,G,M,17,secondary,1,3,3,1,3,3,0,11,2-3 hours,242
+365,G,M,17,secondary,1,5,5,2,4,5,2,7,less than 2 hours,19
+366,G,M,18,secondary,1,4,5,1,3,5,4,14,2-3 hours,310
+367,G,F,16,higher education,2,2,2,1,2,5,2,13,2-3 hours,123
+368,G,F,16,secondary,3,4,3,1,2,1,2,15,2-3 hours,715
+369,G,M,16,secondary,1,4,4,1,1,3,0,11,2-3 hours,656
+370,G,M,18,secondary,1,5,5,2,4,5,0,12,more than 3 hours,384
+371,G,M,15,secondary,2,5,5,3,4,5,4,9,less than 2 hours,53
+372,G,M,15,higher education,1,3,3,5,5,3,4,12,more than 3 hours,716
+373,G,F,16,secondary,2,3,3,1,1,1,0,10,2-3 hours,743
+374,G,M,18,higher education,2,2,4,1,4,3,6,12,less than 2 hours,320
+375,G,M,17,primary,1,4,2,2,4,5,0,13,less than 2 hours,287
+376,G,F,19,primary,1,4,2,1,1,5,2,9,2-3 hours,777
+377,G,M,15,higher education,1,4,3,2,4,5,8,11,less than 2 hours,42
+378,G,F,18,higher education,1,4,4,1,1,4,2,13,2-3 hours,321
+379,G,M,16,secondary,2,4,2,1,1,3,12,10,2-3 hours,738
+380,G,F,18,secondary,2,2,4,1,4,1,8,15,less than 2 hours,359
+381,G,F,18,primary,2,4,4,1,1,4,0,13,2-3 hours,329
+382,G,F,17,secondary,1,4,5,1,2,5,12,14,2-3 hours,330
+383,G,F,17,primary,1,3,3,1,1,3,0,12,2-3 hours,206
+384,G,F,17,primary,1,3,3,1,1,3,0,14,more than 3 hours,334
+385,G,F,15,higher education,2,4,4,2,3,5,4,12,2-3 hours,86
+386,G,M,18,higher education,1,4,3,1,1,2,0,17,2-3 hours,336
+387,G,F,16,secondary,2,4,5,1,1,4,0,15,2-3 hours,189
+388,G,F,16,secondary,1,3,1,1,1,3,2,17,2-3 hours,872
+389,G,M,16,secondary,1,4,2,1,2,5,10,15,2-3 hours,655
+390,G,F,16,secondary,1,3,5,1,4,3,12,11,2-3 hours,696
+391,G,F,18,higher education,1,4,4,3,3,5,2,11,2-3 hours,969
+392,G,M,17,secondary,1,3,3,1,4,2,2,10,less than 2 hours,813
+393,G,F,16,higher education,1,3,2,1,1,5,4,16,more than 3 hours,239
+394,G,F,18,higher education,1,2,4,1,1,4,0,15,2-3 hours,346
+395,G,M,17,higher education,2,1,1,2,2,5,0,13,less than 2 hours,347
+396,G,M,16,higher education,1,4,4,1,2,5,6,14,2-3 hours,116
+397,G,M,19,secondary,1,5,3,1,2,5,0,11,2-3 hours,353
+398,G,M,17,secondary,2,4,4,2,3,4,8,9,less than 2 hours,306
+399,G,M,15,secondary,1,5,2,1,1,5,0,15,2-3 hours,33
+400,G,F,15,secondary,1,3,2,1,1,3,0,0,2-3 hours,796
+401,G,F,15,higher education,1,3,4,2,3,5,0,11,less than 2 hours,703
+402,G,F,16,secondary,1,3,4,1,2,2,4,6,2-3 hours,736
+403,G,M,15,secondary,1,3,2,1,1,2,0,12,2-3 hours,34
+404,G,F,16,higher education,1,2,3,1,2,2,6,14,more than 3 hours,666
+405,G,M,18,secondary,1,2,4,2,4,4,10,10,2-3 hours,232
+406,G,M,17,higher education,1,2,3,1,2,5,4,16,less than 2 hours,846
+407,G,M,15,secondary,1,3,2,1,1,5,2,9,2-3 hours,708
+408,G,F,15,secondary,1,3,4,2,4,1,6,11,2-3 hours,161
+409,G,M,17,secondary,1,3,4,1,4,4,4,6,2-3 hours,827
+410,G,F,18,secondary,2,4,4,1,1,4,6,14,more than 3 hours,391
+411,G,M,16,secondary,3,3,3,1,3,2,4,10,2-3 hours,284
+412,G,M,16,secondary,1,1,3,1,3,5,4,10,less than 2 hours,669
+413,G,M,15,secondary,1,2,4,2,4,1,0,11,less than 2 hours,28
+414,G,F,15,higher education,1,3,3,1,2,2,0,9,2-3 hours,660
+415,G,F,15,higher education,1,3,2,1,1,5,2,11,more than 3 hours,688
+416,G,M,18,primary,1,2,4,1,2,4,2,16,2-3 hours,297
+417,G,F,18,secondary,1,3,4,1,2,2,5,17,more than 3 hours,418
+418,G,F,16,secondary,1,1,5,1,1,4,0,0,2-3 hours,818
+419,G,M,17,secondary,1,4,4,3,4,3,18,13,less than 2 hours,327
+420,G,M,17,secondary,2,2,2,1,1,4,0,10,less than 2 hours,298
+421,G,M,15,higher education,1,5,1,1,1,5,0,13,2-3 hours,10
+422,G,M,15,secondary,1,4,1,1,1,1,0,10,less than 2 hours,44
+423,G,F,16,primary,1,4,4,3,3,1,2,13,less than 2 hours,793
+424,G,F,15,primary,1,3,2,2,3,3,10,10,2-3 hours,652
+425,G,F,17,secondary,1,3,4,1,3,5,2,14,more than 3 hours,293
+426,G,F,18,secondary,4,2,5,1,1,2,2,10,2-3 hours,386
+427,G,F,19,primary,1,3,4,1,3,3,4,11,more than 3 hours,990
+428,G,F,16,higher education,1,4,4,1,2,2,6,17,less than 2 hours,16
+429,G,M,18,secondary,1,4,3,2,2,1,26,8,less than 2 hours,257
+430,G,F,18,primary,2,4,3,1,1,3,2,11,2-3 hours,922
+431,G,M,16,secondary,1,1,3,1,3,5,6,12,less than 2 hours,20
+432,G,F,18,primary,3,2,5,1,5,4,6,10,less than 2 hours,807
+433,G,F,18,higher education,2,3,4,1,1,3,6,6,2-3 hours,650
+434,G,M,15,secondary,1,5,2,1,1,3,10,19,less than 2 hours,763
+435,G,F,15,higher education,1,3,2,1,1,1,0,11,2-3 hours,776
+436,G,F,16,secondary,1,3,5,1,1,3,0,13,2-3 hours,188
+437,G,F,17,higher education,2,1,4,1,1,1,2,13,2-3 hours,8
+438,G,M,18,secondary,1,3,3,1,2,4,0,0,less than 2 hours,778
+439,G,F,16,secondary,1,3,2,1,1,1,4,15,2-3 hours,222
+440,G,M,16,primary,3,3,3,1,1,4,6,18,less than 2 hours,895
+441,G,F,16,secondary,3,4,3,1,2,1,2,16,2-3 hours,66
+442,G,M,18,primary,1,2,4,1,2,4,8,14,2-3 hours,908
+443,G,M,17,secondary,1,5,2,2,2,1,2,14,2-3 hours,923
+444,G,F,17,secondary,1,3,2,1,1,4,4,14,2-3 hours,267
+445,G,M,17,higher education,1,2,1,1,2,5,6,9,less than 2 hours,258
+446,G,M,15,primary,4,5,5,2,5,5,0,10,less than 2 hours,799
+447,G,F,15,higher education,1,3,2,1,1,5,2,8,more than 3 hours,674
+448,G,F,16,secondary,3,3,2,1,1,4,2,14,2-3 hours,18
+449,G,M,16,secondary,2,4,5,3,5,5,0,10,less than 2 hours,174
+450,G,F,15,secondary,1,3,3,1,1,4,10,11,more than 3 hours,755
+451,G,F,19,higher education,2,3,4,2,3,2,0,0,2-3 hours,946
+452,G,M,15,secondary,1,3,3,2,2,5,4,13,2-3 hours,49
+453,G,F,15,secondary,1,3,3,1,1,4,10,10,more than 3 hours,106
+454,G,M,18,primary,4,3,2,4,5,3,14,9,2-3 hours,878
+455,G,F,19,primary,1,4,3,1,2,5,12,13,more than 3 hours,986
+456,G,M,18,secondary,2,3,3,5,5,4,9,10,2-3 hours,238
+457,G,F,17,primary,2,1,2,1,1,3,6,18,more than 3 hours,943
+458,G,F,15,secondary,1,2,2,1,1,5,2,15,more than 3 hours,653
+459,G,F,17,secondary,1,3,3,2,3,1,32,14,2-3 hours,198
+460,G,F,17,primary,1,2,3,2,2,2,2,14,2-3 hours,368
+461,G,F,17,secondary,2,3,3,2,3,2,0,15,more than 3 hours,974
+462,G,F,17,secondary,1,3,2,2,3,2,0,0,2-3 hours,987
+463,G,M,17,primary,2,5,4,2,4,5,30,8,less than 2 hours,930
+464,G,M,16,secondary,1,2,2,1,1,2,4,20,more than 3 hours,697
+465,G,F,15,secondary,1,4,4,2,4,2,0,12,2-3 hours,65
+466,G,F,17,higher education,2,3,3,1,1,1,6,16,2-3 hours,317
+467,G,M,16,primary,2,3,2,1,3,3,0,8,less than 2 hours,903
+468,G,F,15,secondary,1,5,5,1,3,1,4,18,less than 2 hours,741
+469,G,M,16,primary,2,3,2,1,1,5,2,11,more than 3 hours,71
+470,G,M,18,higher education,1,3,3,2,2,3,0,13,more than 3 hours,378
+471,G,F,15,higher education,1,3,4,2,3,5,0,12,less than 2 hours,54
+472,G,F,18,secondary,2,4,5,1,2,2,0,14,2-3 hours,343
+473,G,M,15,secondary,2,4,3,1,2,3,0,13,2-3 hours,14
+474,G,M,15,secondary,1,4,1,1,1,1,0,14,2-3 hours,21
+475,G,M,17,higher education,3,4,5,2,4,5,0,0,2-3 hours,786
+476,G,M,16,higher education,1,1,3,3,5,5,18,7,2-3 hours,739
+477,G,F,19,primary,1,1,2,1,1,3,14,13,more than 3 hours,964
+478,G,F,15,secondary,1,3,1,1,1,2,8,12,less than 2 hours,40
+479,G,F,17,higher education,4,5,4,1,1,5,14,8,less than 2 hours,263
+480,G,F,17,secondary,1,3,3,1,1,4,4,10,more than 3 hours,869
+481,G,F,19,secondary,1,2,4,2,2,3,0,0,2-3 hours,960
+482,G,F,17,primary,1,3,2,1,2,4,10,10,more than 3 hours,260
+483,G,M,15,secondary,1,3,4,1,1,4,2,12,more than 3 hours,95
+484,G,M,18,primary,1,2,5,2,5,5,4,6,less than 2 hours,285
+485,G,M,16,primary,1,4,4,3,5,5,6,10,less than 2 hours,165
+486,G,M,17,secondary,1,4,2,5,5,4,0,16,2-3 hours,251
+487,G,M,17,secondary,1,3,3,1,3,3,2,12,2-3 hours,877
+488,G,F,19,secondary,1,3,3,1,2,3,4,12,more than 3 hours,225
+489,G,F,15,secondary,1,4,4,1,1,5,10,6,2-3 hours,732
+490,G,M,17,secondary,1,4,3,1,3,5,4,11,less than 2 hours,945
+491,G,F,16,secondary,2,3,3,2,2,5,14,9,2-3 hours,694
+492,G,F,16,primary,1,3,3,2,3,2,4,6,2-3 hours,742
+493,G,M,15,secondary,1,2,2,1,3,3,0,12,less than 2 hours,81
+494,G,F,17,higher education,1,4,3,3,4,5,14,8,more than 3 hours,220
+495,G,M,16,higher education,1,3,3,1,1,5,2,13,2-3 hours,29
+496,G,F,18,secondary,1,3,4,1,1,5,9,9,more than 3 hours,967
+497,G,M,18,secondary,2,4,2,1,1,4,8,14,more than 3 hours,944
+498,G,M,17,primary,2,4,4,1,2,5,0,10,less than 2 hours,288
+499,G,M,16,none,2,3,2,1,1,3,2,16,2-3 hours,821
+500,G,M,16,primary,2,4,2,1,1,5,2,9,2-3 hours,249
+501,G,F,15,secondary,1,3,2,1,1,1,0,15,2-3 hours,57
+502,G,M,19,primary,1,3,4,1,4,4,10,11,less than 2 hours,420
+503,G,M,18,secondary,1,4,4,2,4,5,15,8,2-3 hours,863
+504,G,F,17,primary,1,3,3,1,1,3,6,12,more than 3 hours,937
+505,G,M,18,primary,1,3,5,2,5,4,0,0,less than 2 hours,800
+506,G,F,15,secondary,1,3,3,1,1,5,0,16,2-3 hours,52
+507,G,F,17,secondary,1,4,5,1,2,5,4,11,2-3 hours,934
+508,G,F,15,secondary,1,5,5,1,3,1,6,13,less than 2 hours,92
+509,G,M,17,secondary,2,4,4,4,4,4,4,9,2-3 hours,825
+510,G,M,17,secondary,1,4,4,3,4,3,19,10,less than 2 hours,931
+511,G,M,16,higher education,1,5,5,5,5,4,12,8,less than 2 hours,101
+512,G,M,16,secondary,1,3,2,2,4,5,0,15,less than 2 hours,899
+513,G,M,17,secondary,3,2,4,1,4,5,20,8,2-3 hours,768
+514,G,F,17,higher education,1,2,1,1,2,3,12,10,less than 2 hours,864
+515,G,F,17,secondary,1,3,3,2,3,1,56,8,2-3 hours,833
+516,G,M,16,secondary,2,4,4,2,4,5,0,0,less than 2 hours,812
+517,G,F,17,higher education,2,3,3,1,1,1,2,10,2-3 hours,924
+518,G,F,15,secondary,1,2,3,1,2,1,2,15,2-3 hours,770
+519,G,F,18,secondary,1,3,3,5,1,5,10,11,more than 3 hours,144
+520,G,F,18,secondary,1,5,5,1,3,2,4,14,more than 3 hours,921
+521,G,M,15,higher education,1,2,2,1,1,5,8,16,2-3 hours,58
+522,G,F,16,secondary,2,3,5,1,1,5,6,13,more than 3 hours,219
+523,G,M,16,higher education,1,3,3,1,3,5,0,13,more than 3 hours,152
+524,G,F,15,higher education,1,3,2,1,1,5,2,10,more than 3 hours,25
+525,G,F,16,secondary,2,4,5,1,1,4,4,9,2-3 hours,824
+526,G,M,18,secondary,1,4,5,1,3,5,10,10,2-3 hours,918
+527,G,F,18,primary,2,3,3,1,2,1,0,0,2-3 hours,966
+528,G,F,17,secondary,2,3,3,1,4,3,4,13,less than 2 hours,233
+529,G,M,16,primary,3,3,3,1,1,4,7,16,less than 2 hours,277
+530,G,M,18,secondary,1,3,2,1,1,3,2,8,2-3 hours,911
+531,G,F,16,secondary,1,3,2,1,2,5,0,13,2-3 hours,5
+532,G,F,15,primary,1,4,2,1,2,5,0,12,2-3 hours,157
+533,G,F,16,higher education,2,2,2,1,2,5,2,13,2-3 hours,772
+534,G,M,19,secondary,1,3,1,1,1,1,12,11,2-3 hours,907
+535,G,F,16,secondary,1,3,5,1,1,3,2,13,more than 3 hours,100
+536,G,M,15,higher education,1,3,3,1,3,5,2,14,less than 2 hours,662
+537,G,F,16,secondary,1,3,3,1,1,2,10,13,2-3 hours,840
+538,G,M,16,secondary,2,3,3,2,2,2,8,9,less than 2 hours,791
+539,G,F,15,secondary,1,3,3,1,3,1,4,14,more than 3 hours,737
+540,G,M,16,secondary,3,3,3,1,3,2,6,10,2-3 hours,901
+541,G,M,16,secondary,1,3,3,1,2,3,0,11,less than 2 hours,201
+542,G,M,18,secondary,1,4,5,2,3,5,0,9,more than 3 hours,997
+543,G,M,17,primary,2,3,2,2,2,5,0,0,less than 2 hours,810
+544,G,F,18,primary,1,2,5,1,2,1,8,15,2-3 hours,316
+545,G,M,18,higher education,1,4,2,2,2,1,0,17,less than 2 hours,345
+546,G,M,15,higher education,1,4,2,1,1,5,0,15,less than 2 hours,671
+547,G,M,16,higher education,1,5,5,5,5,4,14,5,less than 2 hours,750
+548,G,M,16,secondary,2,4,4,2,4,5,0,12,2-3 hours,673
+549,G,F,17,secondary,1,1,2,1,1,1,8,10,less than 2 hours,265
+550,G,F,16,secondary,1,2,2,1,3,5,14,8,less than 2 hours,675
+551,G,F,17,primary,1,3,2,1,1,4,10,10,2-3 hours,275
+552,G,M,15,secondary,1,2,4,2,4,1,4,15,less than 2 hours,677
+553,G,F,17,primary,3,1,1,1,1,3,2,11,2-3 hours,888
+554,G,M,18,higher education,1,4,2,2,2,1,5,16,less than 2 hours,949
+555,G,M,15,higher education,1,4,2,3,4,5,0,12,2-3 hours,680
+556,G,M,15,secondary,1,5,4,1,2,5,6,15,more than 3 hours,771
+557,G,M,15,secondary,1,5,2,1,1,3,10,18,less than 2 hours,114
+558,G,M,17,primary,1,4,2,2,4,5,0,12,less than 2 hours,904
+559,G,M,18,primary,3,4,5,4,4,5,4,11,2-3 hours,292
+560,G,F,15,secondary,2,5,1,1,1,5,0,6,less than 2 hours,685
+561,G,F,17,secondary,1,2,3,1,2,3,0,12,2-3 hours,245
+562,G,M,16,secondary,1,5,1,1,3,5,2,16,2-3 hours,672
+563,G,F,17,secondary,1,4,2,1,1,3,4,15,2-3 hours,259
+564,G,F,16,secondary,2,3,3,1,1,1,2,14,2-3 hours,94
+565,G,F,17,secondary,1,3,4,1,3,3,10,15,2-3 hours,876
+566,G,M,15,none,2,4,3,1,1,1,8,10,more than 3 hours,726
+567,G,F,16,secondary,1,4,3,1,1,1,4,9,2-3 hours,712
+568,G,M,17,primary,2,3,3,1,1,1,2,15,more than 3 hours,273
+569,G,F,17,secondary,1,3,4,1,3,3,2,17,2-3 hours,241
+570,G,M,15,higher education,1,5,1,1,1,5,0,15,2-3 hours,659
+571,G,M,18,secondary,1,3,3,1,3,5,8,10,2-3 hours,281
+572,G,M,16,secondary,2,3,3,1,1,3,0,12,less than 2 hours,209
+573,G,M,17,secondary,4,4,5,5,5,4,2,10,less than 2 hours,380
+574,G,F,18,secondary,1,3,3,1,1,3,0,13,more than 3 hours,305
+575,G,F,16,secondary,3,3,3,2,3,4,2,13,2-3 hours,700
+576,G,F,17,secondary,2,4,2,1,1,4,6,7,more than 3 hours,859
+577,G,F,15,higher education,1,3,2,1,1,1,0,11,2-3 hours,127
+578,G,M,15,secondary,1,3,3,2,3,5,6,10,2-3 hours,725
+579,G,F,16,primary,1,3,5,1,1,5,2,10,2-3 hours,747
+580,G,F,15,primary,1,3,4,2,4,5,2,11,2-3 hours,73
+581,G,F,18,primary,2,3,1,1,1,5,10,14,2-3 hours,331
+582,G,F,18,secondary,1,3,3,1,2,3,4,10,more than 3 hours,994
+583,G,F,16,primary,2,3,2,1,4,5,6,10,less than 2 hours,858
+584,G,F,17,secondary,1,3,2,1,2,3,18,6,less than 2 hours,853
+585,G,F,18,higher education,1,2,4,1,1,4,14,11,2-3 hours,950
+586,G,F,15,higher education,1,4,4,1,1,3,2,12,2-3 hours,50
+587,G,F,17,primary,1,4,3,2,3,5,0,17,more than 3 hours,375
+588,G,M,17,higher education,1,2,3,1,2,5,4,14,less than 2 hours,211
+589,G,M,16,secondary,2,4,4,2,4,5,2,10,2-3 hours,24
+590,G,F,17,secondary,1,4,3,1,3,4,0,15,more than 3 hours,998
+591,G,F,16,secondary,1,3,3,2,4,5,4,11,2-3 hours,75
+592,G,M,16,secondary,2,3,3,1,3,2,10,10,more than 3 hours,885
+593,G,F,15,secondary,2,1,3,1,3,4,2,8,2-3 hours,718
+594,G,F,18,higher education,1,4,4,1,1,4,15,8,2-3 hours,928
+595,G,M,15,higher education,4,3,3,1,1,5,0,0,2-3 hours,784
+596,G,M,15,higher education,4,3,5,3,5,1,6,13,more than 3 hours,758
+597,G,F,15,primary,1,3,4,2,4,5,2,5,2-3 hours,722
+598,G,M,15,secondary,1,3,3,1,1,3,0,10,more than 3 hours,721
+599,G,F,16,primary,1,4,4,3,3,1,4,11,less than 2 hours,155
+600,G,F,18,secondary,1,3,3,1,1,3,0,17,more than 3 hours,344
+601,G,M,16,primary,1,3,2,2,2,5,2,14,less than 2 hours,723
+602,G,M,15,higher education,2,3,1,1,1,5,0,17,2-3 hours,681
+603,G,M,17,primary,2,5,1,1,1,3,2,10,less than 2 hours,728
+604,G,F,17,secondary,1,2,2,1,2,5,0,18,more than 3 hours,953
+605,G,M,15,secondary,1,2,2,1,3,3,2,12,less than 2 hours,730
+606,G,F,16,primary,1,3,3,1,2,5,4,6,more than 3 hours,717
+607,G,F,16,primary,1,5,2,1,1,5,4,10,less than 2 hours,252
+608,G,F,15,secondary,2,2,1,2,3,3,8,10,more than 3 hours,802
+609,G,M,17,secondary,2,5,5,1,4,5,14,12,2-3 hours,890
+610,G,M,16,higher education,1,3,2,2,1,5,16,8,less than 2 hours,162
+611,G,F,18,secondary,1,3,3,1,1,3,0,0,more than 3 hours,914
+612,G,M,15,higher education,1,3,3,1,1,5,2,18,2-3 hours,692
+613,G,M,17,primary,2,5,4,2,4,5,22,10,less than 2 hours,326
+614,G,M,18,secondary,2,2,3,1,2,1,8,10,less than 2 hours,929
+615,G,F,17,secondary,2,4,4,1,3,1,2,15,2-3 hours,230
+616,G,F,15,higher education,2,2,2,2,2,5,0,0,more than 3 hours,780
+617,G,M,18,secondary,2,2,3,1,2,1,0,10,less than 2 hours,324
+618,G,M,16,secondary,1,4,3,1,1,5,4,12,less than 2 hours,35
+619,G,M,15,secondary,1,3,4,1,1,4,6,14,more than 3 hours,744
+620,G,M,18,secondary,2,4,5,2,4,5,8,7,less than 2 hours,283
+621,G,M,18,secondary,1,3,2,1,2,4,4,17,more than 3 hours,401
+622,G,M,18,higher education,1,3,3,1,3,5,11,15,2-3 hours,992
+623,G,F,17,secondary,1,4,4,1,3,5,2,12,less than 2 hours,135
+624,G,M,15,higher education,1,3,3,1,1,5,4,14,less than 2 hours,752
+625,G,F,17,secondary,1,2,2,1,1,3,4,13,2-3 hours,373
+626,G,F,17,higher education,2,2,4,2,3,2,24,18,less than 2 hours,848
+627,G,M,16,secondary,2,4,2,1,1,3,6,11,2-3 hours,89
+628,G,M,18,primary,1,2,4,1,3,2,6,14,more than 3 hours,938
+629,G,M,16,secondary,2,4,2,1,1,5,6,15,less than 2 hours,118
+630,G,M,16,secondary,1,4,5,1,1,3,7,15,less than 2 hours,270
+631,G,F,18,primary,1,3,3,1,1,4,4,8,2-3 hours,240
+632,G,F,18,secondary,1,1,2,1,3,2,21,18,2-3 hours,910
+633,G,F,18,primary,2,4,4,1,1,3,0,0,more than 3 hours,894
+634,G,M,16,secondary,1,5,1,1,3,5,0,14,2-3 hours,23
+635,G,M,15,higher education,1,5,3,1,1,4,6,19,less than 2 hours,760
+636,G,M,18,primary,1,2,4,1,3,2,0,15,more than 3 hours,335
+637,G,M,17,secondary,1,5,2,2,2,1,2,18,2-3 hours,315
+638,G,M,16,secondary,1,3,3,1,1,5,2,18,more than 3 hours,757
+639,G,F,17,secondary,1,2,2,1,2,3,0,15,more than 3 hours,941
+640,G,M,15,none,2,4,3,1,1,1,0,11,more than 3 hours,77
+641,G,M,17,higher education,1,5,5,1,3,2,14,9,2-3 hours,882
+642,G,F,17,higher education,2,1,4,1,1,1,6,6,2-3 hours,657
+643,G,M,16,higher education,1,5,5,2,5,4,8,18,less than 2 hours,779
+644,G,M,15,primary,1,4,2,1,1,5,4,10,2-3 hours,115
+645,G,M,17,secondary,3,2,4,1,4,5,14,11,2-3 hours,119
+646,G,F,15,secondary,1,3,4,4,4,1,6,13,less than 2 hours,704
+647,G,M,16,primary,1,4,4,1,3,5,0,10,2-3 hours,147
+648,G,M,17,secondary,2,4,4,4,5,5,12,8,2-3 hours,842
+649,G,F,16,secondary,1,4,4,1,1,5,0,8,2-3 hours,774
+650,G,M,15,higher education,1,5,5,3,2,5,0,12,less than 2 hours,775
+651,G,F,17,primary,2,2,5,1,2,5,2,6,2-3 hours,870
+652,G,M,17,higher education,2,3,3,2,3,4,2,12,2-3 hours,891
+653,G,F,15,secondary,1,1,2,1,1,3,8,8,more than 3 hours,756
+654,G,M,18,primary,4,3,2,4,5,3,2,11,2-3 hours,243
+655,G,M,16,higher education,2,4,3,1,1,5,7,15,more than 3 hours,687
+656,G,M,18,secondary,2,4,2,1,1,4,0,15,more than 3 hours,340
+657,G,F,19,primary,1,4,3,1,3,3,18,10,2-3 hours,959
+658,G,F,17,secondary,1,3,4,1,3,4,0,17,2-3 hours,411
+659,G,F,16,secondary,1,3,5,1,2,5,4,11,less than 2 hours,261
+660,G,M,19,secondary,1,5,3,1,2,5,0,12,2-3 hours,958
+661,G,F,19,secondary,1,3,3,4,3,3,0,10,2-3 hours,323
+662,G,M,17,secondary,1,2,3,1,1,2,4,13,2-3 hours,194
+663,G,F,15,secondary,1,2,2,1,1,5,8,6,2-3 hours,695
+664,G,F,18,primary,3,2,5,1,5,4,6,11,less than 2 hours,171
+665,G,F,15,higher education,1,3,3,1,1,5,4,15,more than 3 hours,140
+666,G,F,18,secondary,1,2,3,1,1,5,4,13,2-3 hours,295
+667,G,F,15,higher education,1,2,2,1,1,5,2,11,more than 3 hours,792
+668,G,F,17,secondary,1,4,1,1,1,2,2,12,more than 3 hours,299
+669,G,F,15,secondary,1,2,2,1,1,5,0,14,more than 3 hours,4
+670,G,F,15,primary,1,4,2,1,2,5,0,11,2-3 hours,795
+671,G,F,18,secondary,1,3,1,1,1,5,16,10,2-3 hours,255
+672,G,F,15,secondary,1,3,2,1,1,5,2,11,2-3 hours,797
+673,G,M,15,higher education,2,4,3,1,1,2,4,16,2-3 hours,117
+674,G,F,17,secondary,1,2,2,1,1,3,12,9,2-3 hours,971
+675,G,M,16,secondary,1,3,2,3,4,5,8,10,less than 2 hours,843
+676,G,M,16,higher education,1,4,3,1,1,4,0,16,more than 3 hours,102
+677,G,F,17,primary,1,3,5,2,4,4,4,16,2-3 hours,405
+678,G,M,16,higher education,1,4,4,1,4,5,18,13,less than 2 hours,773
+679,G,F,17,higher education,1,2,1,1,1,4,0,12,less than 2 hours,804
+680,G,F,15,higher education,2,4,4,2,3,5,6,8,2-3 hours,735
+681,G,M,17,secondary,1,2,2,3,3,5,8,13,less than 2 hours,806
+682,G,M,17,secondary,2,5,2,1,1,2,10,8,less than 2 hours,180
+683,G,M,16,secondary,3,2,2,1,2,3,2,15,less than 2 hours,808
+684,G,M,18,secondary,1,3,3,1,3,5,8,5,2-3 hours,898
+685,G,F,18,primary,2,4,3,1,1,3,2,13,2-3 hours,314
+686,G,F,17,higher education,2,3,3,1,2,4,4,15,more than 3 hours,382
+687,G,M,15,higher education,1,3,3,1,1,5,0,15,2-3 hours,43
+688,G,M,18,secondary,1,3,2,1,1,3,2,12,more than 3 hours,303
+689,G,M,17,primary,4,3,5,1,5,5,0,7,2-3 hours,814
+690,G,M,16,secondary,2,5,2,1,1,2,16,12,less than 2 hours,815
+691,G,M,16,secondary,1,3,5,2,4,4,4,10,2-3 hours,816
+692,G,F,17,secondary,2,4,4,2,3,5,6,12,2-3 hours,318
+693,G,M,16,secondary,1,3,3,1,4,2,2,8,less than 2 hours,178
+694,G,F,17,primary,2,2,5,1,2,5,0,11,2-3 hours,235
+695,G,F,16,higher education,1,3,4,1,2,1,4,13,less than 2 hours,99
+696,G,M,15,secondary,1,2,2,1,1,1,0,17,2-3 hours,9
+697,G,M,16,secondary,1,4,3,2,3,3,10,8,2-3 hours,830
+698,G,M,18,primary,2,3,4,4,5,4,2,12,less than 2 hours,143
+699,G,M,16,higher education,1,4,3,1,1,4,0,17,more than 3 hours,751
+700,G,M,17,higher education,1,4,4,1,3,5,0,10,2-3 hours,822
+701,G,F,16,secondary,2,4,4,1,4,5,2,11,2-3 hours,826
+702,G,M,18,secondary,1,3,2,1,2,4,9,16,more than 3 hours,996
+703,G,M,16,secondary,1,3,3,3,4,3,10,9,less than 2 hours,828
+704,G,F,16,higher education,1,2,3,1,2,2,10,14,more than 3 hours,17
+705,G,F,18,secondary,1,3,4,1,1,5,2,17,more than 3 hours,358
+706,G,F,18,secondary,1,3,3,1,1,1,7,17,more than 3 hours,988
+707,G,F,17,primary,1,4,4,1,3,1,0,15,2-3 hours,217
+708,G,M,15,higher education,1,3,3,5,5,3,0,12,more than 3 hours,67
+709,G,M,16,primary,2,4,2,1,1,5,18,6,2-3 hours,884
+710,G,M,15,higher education,1,4,3,1,2,4,2,14,less than 2 hours,120
+711,G,M,15,higher education,1,4,4,1,1,1,0,18,2-3 hours,754
+712,G,F,17,secondary,1,4,5,2,4,1,16,10,2-3 hours,231
+713,G,F,17,secondary,1,3,3,1,3,3,6,9,2-3 hours,838
+714,G,M,15,secondary,2,2,2,1,1,3,6,11,more than 3 hours,150
+715,G,F,17,secondary,2,4,4,1,3,1,2,15,2-3 hours,865
+716,G,F,17,primary,1,3,3,1,1,3,0,9,2-3 hours,841
+717,G,M,15,secondary,2,4,4,2,4,5,2,10,less than 2 hours,177
+718,G,F,19,primary,3,3,4,1,1,4,2,9,2-3 hours,371
+719,G,F,16,primary,1,5,2,1,1,5,20,12,less than 2 hours,887
+720,G,F,17,higher education,1,3,2,1,1,5,0,15,2-3 hours,845
+721,G,F,19,secondary,1,3,5,3,3,5,16,12,2-3 hours,312
+722,G,M,16,secondary,3,3,4,3,5,3,8,10,less than 2 hours,847
+723,G,M,15,higher education,2,4,3,1,1,2,2,14,2-3 hours,766
+724,G,F,15,higher education,1,3,3,1,1,5,0,0,more than 3 hours,785
+725,G,M,18,secondary,1,4,4,2,4,5,10,11,2-3 hours,228
+726,G,M,16,secondary,2,2,3,2,2,1,4,13,more than 3 hours,130
+727,G,F,17,primary,1,4,4,1,3,1,4,10,2-3 hours,852
+728,G,F,15,primary,1,3,2,2,3,4,2,12,2-3 hours,85
+729,G,M,18,higher education,2,2,5,3,4,1,6,16,2-3 hours,307
+730,G,F,17,higher education,1,4,3,3,4,5,28,9,more than 3 hours,855
+731,G,M,16,higher education,1,5,5,2,5,4,8,15,less than 2 hours,129
+732,G,M,15,secondary,1,5,4,1,2,5,6,13,more than 3 hours,122
+733,G,F,15,secondary,1,3,4,4,4,1,0,13,less than 2 hours,55
+734,G,M,18,primary,1,3,5,2,5,4,0,0,less than 2 hours,164
+735,G,F,19,secondary,1,3,3,1,2,3,10,8,more than 3 hours,860
+736,G,M,17,higher education,1,3,5,4,5,3,13,13,2-3 hours,861
+737,G,F,18,secondary,2,4,4,1,1,4,0,0,more than 3 hours,984
+738,G,F,16,higher education,1,4,5,1,1,4,4,16,more than 3 hours,759
+739,G,M,18,higher education,2,2,4,1,4,3,22,9,less than 2 hours,927
+740,G,F,18,secondary,2,4,5,1,2,2,10,8,2-3 hours,947
+741,G,M,15,secondary,1,2,2,1,2,5,2,11,less than 2 hours,676
+742,G,F,18,primary,2,3,5,1,2,3,12,10,2-3 hours,311
+743,G,F,16,higher education,1,3,4,1,2,1,6,14,less than 2 hours,748
+744,G,F,18,secondary,1,4,3,2,3,1,7,14,more than 3 hours,995
+745,G,F,17,secondary,1,2,3,1,1,4,2,13,more than 3 hours,304
+746,G,F,17,primary,1,3,4,1,1,5,0,0,more than 3 hours,871
+747,G,M,15,higher education,1,4,3,2,4,5,8,12,less than 2 hours,691
+748,G,M,18,secondary,2,3,3,5,5,4,0,13,2-3 hours,873
+749,G,F,17,secondary,1,3,3,1,3,3,10,14,2-3 hours,203
+750,G,F,17,secondary,2,4,4,2,3,5,6,12,2-3 hours,925
+751,G,F,17,secondary,1,2,5,2,5,5,2,11,less than 2 hours,383
+752,G,M,17,secondary,2,2,2,1,1,2,2,13,less than 2 hours,279
+753,G,F,17,secondary,1,3,2,2,3,2,0,15,2-3 hours,393
+754,G,M,17,secondary,1,5,5,2,4,5,16,5,less than 2 hours,668
+755,G,F,17,secondary,1,2,3,1,2,3,14,14,2-3 hours,880
+756,G,M,15,secondary,1,5,2,1,1,3,0,15,more than 3 hours,15
+757,G,F,17,secondary,1,3,3,2,3,2,0,16,2-3 hours,395
+758,G,F,16,secondary,1,3,3,1,3,4,2,11,more than 3 hours,91
+759,G,F,15,secondary,2,2,1,2,3,3,2,13,more than 3 hours,166
+760,G,F,16,secondary,2,3,3,1,2,3,25,11,2-3 hours,690
+761,G,M,17,secondary,2,4,4,4,4,4,0,11,2-3 hours,190
+762,G,F,15,secondary,2,5,1,1,1,5,4,11,less than 2 hours,36
+763,G,F,15,primary,3,3,3,1,2,4,6,13,less than 2 hours,134
+764,G,M,18,secondary,1,5,4,3,5,2,0,0,2-3 hours,889
+765,G,F,18,higher education,1,4,4,1,2,5,2,11,2-3 hours,354
+766,G,M,16,higher education,1,4,4,1,4,5,4,13,less than 2 hours,124
+767,G,F,16,primary,1,3,4,1,1,2,8,10,2-3 hours,705
+768,G,M,17,secondary,2,5,2,1,1,1,4,11,2-3 hours,881
+769,G,M,16,secondary,2,3,3,1,1,3,0,14,less than 2 hours,844
+770,G,F,17,secondary,1,3,2,1,2,3,21,13,less than 2 hours,218
+771,G,M,17,secondary,2,2,2,1,1,2,4,13,less than 2 hours,896
+772,M,F,16,higher education,1,3,4,1,2,3,4,8,2-3 hours,523
+773,M,M,19,secondary,2,2,1,1,1,3,4,9,less than 2 hours,569
+774,M,F,15,secondary,1,4,3,2,2,5,2,12,more than 3 hours,464
+775,M,M,19,primary,2,3,2,1,3,5,0,0,less than 2 hours,640
+776,M,F,17,primary,1,3,3,1,1,3,0,10,more than 3 hours,508
+777,M,F,16,higher education,2,1,3,1,2,5,1,11,less than 2 hours,530
+778,M,M,17,secondary,2,5,4,2,3,3,2,13,2-3 hours,1001
+779,M,F,17,secondary,2,3,3,1,2,4,0,18,2-3 hours,597
+780,M,M,16,secondary,1,4,4,2,4,5,4,11,less than 2 hours,557
+781,M,F,16,secondary,2,4,4,1,1,5,0,12,2-3 hours,425
+782,M,M,17,primary,2,4,5,3,4,2,6,10,less than 2 hours,648
+783,M,F,18,primary,2,3,2,1,1,4,0,18,more than 3 hours,618
+784,M,F,18,secondary,3,3,4,1,4,5,0,15,2-3 hours,619
+785,M,F,18,higher education,3,2,2,4,2,5,0,0,2-3 hours,627
+786,M,F,17,secondary,2,3,3,2,3,5,0,18,2-3 hours,550
+787,M,F,16,secondary,1,3,4,1,2,1,6,8,less than 2 hours,485
+788,M,F,17,higher education,2,3,3,1,2,5,2,12,2-3 hours,615
+789,M,M,18,secondary,2,5,5,5,5,5,10,13,less than 2 hours,999
+790,M,M,16,primary,2,4,4,3,4,5,6,11,less than 2 hours,465
+791,M,F,15,secondary,2,1,2,1,1,1,3,13,less than 2 hours,450
+792,M,F,18,higher education,3,2,2,4,2,5,10,11,2-3 hours,1019
+793,M,F,18,secondary,1,3,3,1,2,4,3,8,2-3 hours,588
+794,M,F,18,primary,3,4,4,2,2,5,3,7,2-3 hours,591
+795,M,F,16,higher education,2,3,5,1,4,5,1,12,more than 3 hours,543
+796,M,F,16,secondary,3,4,5,1,1,4,4,11,2-3 hours,453
+797,M,M,18,primary,2,4,3,1,3,5,0,0,less than 2 hours,638
+798,M,F,16,higher education,3,2,1,1,1,2,2,8,2-3 hours,525
+799,M,F,15,primary,1,4,2,3,3,2,0,9,2-3 hours,456
+800,M,F,18,higher education,1,4,3,3,4,2,1,14,2-3 hours,634
+801,M,F,18,higher education,3,3,4,1,4,5,0,13,2-3 hours,1010
+802,M,F,16,secondary,1,3,2,1,1,3,2,10,2-3 hours,493
+803,M,M,16,higher education,1,3,2,1,3,2,5,11,2-3 hours,430
+804,M,F,17,primary,3,5,3,1,1,3,2,11,less than 2 hours,482
+805,M,F,17,primary,1,5,4,2,3,1,17,10,2-3 hours,1029
+806,M,F,18,secondary,2,2,3,1,2,4,0,10,less than 2 hours,626
+807,M,M,16,secondary,2,4,3,2,4,4,6,8,less than 2 hours,571
+808,M,M,18,secondary,1,3,3,2,3,3,0,9,less than 2 hours,580
+809,M,F,18,secondary,1,3,4,1,1,5,0,10,2-3 hours,614
+810,M,F,19,secondary,1,4,2,1,2,5,4,10,more than 3 hours,645
+811,M,F,17,secondary,2,2,2,1,2,3,0,13,2-3 hours,622
+812,M,F,17,none,2,4,5,1,1,4,1,10,2-3 hours,512
+813,M,F,18,secondary,1,3,1,1,1,5,0,0,2-3 hours,604
+814,M,F,18,secondary,1,4,4,2,3,5,9,8,2-3 hours,466
+815,M,M,16,primary,2,2,1,1,1,2,0,0,2-3 hours,520
+816,M,F,18,primary,1,3,2,1,1,5,9,7,2-3 hours,513
+817,M,F,18,primary,4,3,2,1,2,4,4,12,more than 3 hours,632
+818,M,F,16,primary,4,3,2,1,1,1,0,13,more than 3 hours,459
+819,M,F,16,secondary,3,3,4,1,1,2,1,14,2-3 hours,468
+820,M,F,19,secondary,1,4,2,1,2,5,0,0,more than 3 hours,1037
+821,M,F,16,primary,1,4,3,1,1,5,2,8,less than 2 hours,477
+822,M,M,18,none,3,3,2,1,1,4,0,13,less than 2 hours,560
+823,M,F,18,primary,2,1,1,1,1,5,0,0,2-3 hours,1039
+824,M,F,19,primary,2,1,4,4,1,1,12,9,2-3 hours,492
+825,M,M,17,secondary,1,5,5,5,5,3,4,11,less than 2 hours,458
+826,M,M,16,primary,2,4,5,4,5,3,0,0,2-3 hours,441
+827,M,F,17,secondary,2,1,3,1,1,5,0,11,2-3 hours,542
+828,M,M,20,primary,2,4,3,2,4,4,12,10,less than 2 hours,575
+829,M,F,19,primary,2,5,5,2,3,2,0,0,less than 2 hours,606
+830,M,M,17,secondary,3,3,5,3,5,3,2,9,more than 3 hours,503
+831,M,F,16,secondary,1,4,3,1,1,1,0,12,2-3 hours,563
+832,M,F,19,primary,2,5,4,1,4,1,0,0,2-3 hours,611
+833,M,F,16,secondary,3,3,2,1,1,4,0,16,less than 2 hours,473
+834,M,M,19,primary,2,3,2,1,3,5,0,0,less than 2 hours,1033
+835,M,M,18,primary,2,4,3,3,4,4,0,10,less than 2 hours,490
+836,M,F,16,secondary,3,5,4,1,2,1,2,15,2-3 hours,451
+837,M,F,17,secondary,2,2,2,1,2,3,0,12,2-3 hours,1014
+838,M,M,16,primary,2,4,3,2,3,4,4,10,less than 2 hours,474
+839,M,M,18,secondary,3,4,1,3,4,5,0,10,less than 2 hours,1043
+840,M,M,19,primary,3,4,4,3,3,5,4,8,less than 2 hours,1003
+841,M,F,17,primary,1,2,2,1,1,5,0,9,less than 2 hours,589
+842,M,M,17,secondary,2,5,5,3,5,5,0,10,less than 2 hours,559
+843,M,M,16,primary,2,5,5,2,4,5,0,9,less than 2 hours,566
+844,M,M,15,secondary,1,3,3,1,1,5,0,11,2-3 hours,447
+845,M,F,15,secondary,2,3,2,1,1,4,0,14,more than 3 hours,476
+846,M,F,18,primary,1,3,4,1,1,1,4,16,2-3 hours,646
+847,M,F,17,primary,2,4,4,3,5,5,5,10,less than 2 hours,494
+848,M,F,16,secondary,1,2,5,1,2,5,0,16,less than 2 hours,500
+849,M,M,15,secondary,3,2,4,3,5,3,2,11,less than 2 hours,475
+850,M,F,16,primary,1,4,4,2,2,4,2,14,less than 2 hours,497
+851,M,F,16,higher education,1,3,3,2,3,2,0,16,2-3 hours,517
+852,M,F,15,higher education,2,5,1,3,5,5,0,14,less than 2 hours,434
+853,M,F,17,secondary,2,3,2,1,1,1,0,17,2-3 hours,511
+854,M,F,16,primary,4,4,3,1,1,5,2,10,more than 3 hours,460
+855,M,F,17,primary,2,2,3,2,2,3,5,8,more than 3 hours,586
+856,M,M,18,secondary,2,3,4,2,4,3,0,9,2-3 hours,623
+857,M,F,19,primary,2,3,3,1,1,3,4,9,2-3 hours,633
+858,M,F,16,secondary,1,3,3,2,2,5,2,11,more than 3 hours,539
+859,M,F,17,secondary,1,5,5,1,3,5,0,0,2-3 hours,587
+860,M,M,16,secondary,2,5,5,2,3,5,2,10,less than 2 hours,565
+861,M,F,18,secondary,1,1,3,1,2,1,1,16,2-3 hours,635
+862,M,F,17,secondary,2,3,5,1,2,4,0,11,2-3 hours,486
+863,M,F,15,secondary,2,1,3,1,1,4,0,16,less than 2 hours,440
+864,M,M,16,secondary,2,3,3,1,1,5,0,11,2-3 hours,452
+865,M,M,16,higher education,3,4,5,1,2,5,4,11,2-3 hours,445
+866,M,M,15,secondary,3,3,3,1,2,4,1,13,less than 2 hours,469
+867,M,F,18,secondary,2,4,3,1,2,4,0,14,2-3 hours,594
+868,M,F,18,primary,2,2,3,1,1,2,4,10,less than 2 hours,491
+869,M,F,16,primary,1,1,3,1,3,1,0,8,less than 2 hours,514
+870,M,M,16,primary,1,1,2,2,1,2,0,11,less than 2 hours,548
+871,M,M,17,primary,3,2,3,3,4,4,4,14,less than 2 hours,601
+872,M,F,17,secondary,1,4,3,1,1,3,8,11,more than 3 hours,1022
+873,M,M,18,secondary,2,5,5,5,5,5,8,11,less than 2 hours,577
+874,M,F,17,primary,1,5,5,1,2,3,2,11,2-3 hours,549
+875,M,F,19,secondary,1,4,4,1,1,2,0,10,less than 2 hours,481
+876,M,F,18,secondary,2,5,5,1,1,3,0,0,less than 2 hours,584
+877,M,F,17,secondary,2,2,3,1,2,5,2,11,2-3 hours,1007
+878,M,M,18,primary,2,4,3,1,3,5,5,7,less than 2 hours,1031
+879,M,F,15,primary,2,2,1,1,3,4,0,9,less than 2 hours,483
+880,M,F,18,primary,2,3,5,1,4,3,8,10,2-3 hours,516
+881,M,M,15,primary,1,3,3,1,2,5,11,12,less than 2 hours,538
+882,M,F,18,secondary,2,1,1,1,1,4,0,12,2-3 hours,610
+883,M,F,18,higher education,1,3,2,1,3,1,8,8,2-3 hours,519
+884,M,F,15,secondary,2,4,4,2,3,5,4,11,less than 2 hours,427
+885,M,M,18,higher education,1,2,4,1,4,2,4,14,2-3 hours,1030
+886,M,M,15,secondary,3,4,5,2,3,5,8,14,more than 3 hours,537
+887,M,F,17,higher education,1,3,4,1,1,1,0,15,2-3 hours,1013
+888,M,F,18,primary,1,2,3,1,2,3,2,11,2-3 hours,609
+889,M,M,20,secondary,1,5,4,4,5,4,11,9,2-3 hours,1040
+890,M,M,18,higher education,1,2,4,1,4,2,4,19,2-3 hours,637
+891,M,F,16,secondary,2,5,5,1,1,1,8,7,2-3 hours,573
+892,M,F,18,primary,2,1,1,1,1,5,6,9,2-3 hours,647
+893,M,F,16,primary,1,2,2,1,1,3,0,16,2-3 hours,534
+894,M,F,16,primary,3,3,2,1,3,5,6,8,2-3 hours,521
+895,M,F,16,secondary,1,1,3,1,4,3,2,7,less than 2 hours,515
+896,M,F,15,primary,2,3,4,1,1,1,0,9,less than 2 hours,429
+897,M,F,18,higher education,2,4,4,1,1,1,0,17,more than 3 hours,631
+898,M,M,16,higher education,1,1,2,2,5,5,0,12,less than 2 hours,535
+899,M,F,18,primary,3,4,2,1,2,2,2,10,2-3 hours,605
+900,M,F,18,higher education,3,4,3,2,2,5,7,6,less than 2 hours,1036
+901,M,F,16,primary,3,3,2,1,1,1,0,18,2-3 hours,510
+902,M,M,18,secondary,2,4,3,4,3,3,14,5,less than 2 hours,1034
+903,M,F,16,higher education,2,2,2,1,1,4,6,17,more than 3 hours,449
+904,M,F,18,secondary,1,1,3,1,2,1,0,15,2-3 hours,1028
+905,M,F,18,secondary,2,3,2,1,3,3,6,13,2-3 hours,620
+906,M,F,16,secondary,2,2,3,1,2,2,0,12,less than 2 hours,438
+907,M,F,18,secondary,2,4,5,1,4,3,0,13,more than 3 hours,603
+908,M,M,18,primary,2,3,2,1,2,3,2,14,less than 2 hours,617
+909,M,F,15,primary,3,2,1,1,2,2,0,14,2-3 hours,463
+910,M,M,18,secondary,3,3,3,2,3,3,3,12,less than 2 hours,1021
+911,M,F,18,secondary,2,3,2,1,1,2,6,10,more than 3 hours,488
+912,M,F,18,secondary,1,3,4,1,1,5,0,9,2-3 hours,1005
+913,M,F,17,primary,3,2,1,1,2,1,0,0,less than 2 hours,1017
+914,M,F,16,secondary,1,4,3,1,4,3,1,10,less than 2 hours,487
+915,M,M,18,primary,2,3,2,1,2,3,4,10,less than 2 hours,1008
+916,M,M,17,secondary,2,5,5,1,3,2,4,11,2-3 hours,1004
+917,M,M,19,primary,1,2,3,3,3,5,5,9,less than 2 hours,1044
+918,M,M,17,secondary,2,4,3,1,1,3,4,16,2-3 hours,639
+919,M,M,17,primary,3,5,5,5,5,3,8,9,less than 2 hours,448
+920,M,F,18,higher education,2,3,5,1,2,1,0,18,2-3 hours,595
+921,M,F,16,primary,2,2,2,4,3,2,0,14,less than 2 hours,462
+922,M,F,17,secondary,2,5,5,1,3,3,2,12,less than 2 hours,439
+923,M,F,16,secondary,2,4,4,2,3,5,2,12,2-3 hours,472
+924,M,M,19,primary,1,4,3,3,4,4,2,10,2-3 hours,553
+925,M,F,20,secondary,2,4,3,1,1,3,4,15,more than 3 hours,1026
+926,M,M,18,primary,2,4,3,2,3,5,2,12,2-3 hours,1011
+927,M,M,17,primary,1,4,3,2,4,5,4,9,2-3 hours,442
+928,M,F,15,primary,2,4,3,1,2,4,0,10,2-3 hours,436
+929,M,M,17,secondary,2,1,2,2,2,1,0,13,2-3 hours,552
+930,M,F,17,primary,1,3,2,1,2,5,9,10,less than 2 hours,574
+931,M,F,17,primary,1,2,3,1,2,5,1,14,less than 2 hours,527
+932,M,M,19,primary,3,4,4,3,3,2,8,11,2-3 hours,578
+933,M,F,16,secondary,2,3,3,1,3,5,11,11,less than 2 hours,424
+934,M,F,15,primary,2,3,3,1,1,2,1,11,2-3 hours,461
+935,M,M,18,secondary,3,4,1,3,4,5,4,11,less than 2 hours,649
+936,M,F,18,secondary,2,3,2,1,3,3,0,10,2-3 hours,1012
+937,M,F,16,secondary,2,3,3,1,1,2,0,10,2-3 hours,522
+938,M,F,17,none,2,4,3,1,1,5,0,11,less than 2 hours,585
+939,M,M,17,secondary,2,5,4,2,3,3,4,10,2-3 hours,579
+940,M,M,17,secondary,2,5,5,1,3,2,4,11,2-3 hours,613
+941,M,F,17,higher education,1,2,5,1,1,5,0,16,2-3 hours,547
+942,M,F,17,primary,3,2,1,1,2,1,0,9,less than 2 hours,625
+943,M,F,16,secondary,1,4,5,1,3,3,0,9,2-3 hours,495
+944,M,M,17,secondary,2,1,2,3,3,5,2,12,less than 2 hours,545
+945,M,M,17,secondary,1,3,5,5,5,1,12,7,less than 2 hours,501
+946,M,F,17,secondary,2,2,3,3,1,5,0,18,more than 3 hours,607
+947,M,M,17,higher education,3,3,3,1,3,5,2,8,less than 2 hours,544
+948,M,M,17,secondary,2,4,3,1,1,3,2,10,2-3 hours,1032
+949,M,M,19,primary,3,4,4,3,3,2,8,8,2-3 hours,1000
+950,M,F,17,primary,1,5,4,2,3,1,10,9,2-3 hours,636
+951,M,F,18,secondary,2,2,3,1,2,4,0,10,less than 2 hours,1018
+952,M,F,18,higher education,2,4,4,1,1,1,0,19,more than 3 hours,1024
+953,M,F,17,higher education,1,3,4,1,1,1,4,15,2-3 hours,621
+954,M,F,17,secondary,1,5,4,1,2,5,0,10,2-3 hours,432
+955,M,F,20,secondary,2,3,4,2,4,3,8,10,2-3 hours,507
+956,M,M,17,secondary,1,1,4,5,5,3,8,9,less than 2 hours,531
+957,M,M,16,secondary,1,4,3,1,1,5,0,11,more than 3 hours,431
+958,M,M,17,primary,2,4,5,3,4,2,3,16,less than 2 hours,1041
+959,M,M,17,secondary,1,2,1,2,3,5,0,0,less than 2 hours,564
+960,M,F,15,primary,1,1,3,1,1,2,6,10,less than 2 hours,426
+961,M,M,16,secondary,1,2,5,1,5,5,8,13,less than 2 hours,502
+962,M,F,19,secondary,1,4,5,1,1,1,0,13,more than 3 hours,505
+963,M,M,18,secondary,2,3,4,2,4,3,4,10,2-3 hours,1015
+964,M,M,15,secondary,3,5,5,1,3,5,11,10,2-3 hours,536
+965,M,M,15,secondary,2,3,3,2,4,3,11,11,less than 2 hours,478
+966,M,M,18,higher education,2,2,2,2,2,5,0,16,more than 3 hours,624
+967,M,M,18,higher education,3,5,5,1,1,1,5,14,less than 2 hours,600
+968,M,M,18,higher education,1,4,5,1,1,5,3,17,less than 2 hours,596
+969,M,F,17,secondary,2,4,3,1,1,4,0,13,less than 2 hours,593
+970,M,F,17,secondary,2,2,3,1,2,5,0,15,2-3 hours,616
+971,M,M,18,secondary,2,1,4,5,5,1,8,11,less than 2 hours,599
+972,M,F,18,primary,2,3,2,1,1,4,0,16,more than 3 hours,1009
+973,M,F,17,primary,2,4,4,1,1,5,2,10,2-3 hours,558
+974,M,F,17,secondary,1,5,1,1,1,3,0,10,less than 2 hours,590
+975,M,F,18,secondary,2,3,5,1,1,1,2,14,2-3 hours,592
+976,M,F,19,primary,1,3,1,1,1,3,6,9,more than 3 hours,489
+977,M,F,17,primary,2,4,5,1,2,5,0,11,less than 2 hours,506
+978,M,F,16,primary,2,4,3,1,1,1,0,8,2-3 hours,479
+979,M,M,17,secondary,2,4,5,3,4,5,0,10,more than 3 hours,498
+980,M,M,18,secondary,1,3,1,2,2,5,0,0,less than 2 hours,568
+981,M,F,18,higher education,1,4,3,3,4,2,4,10,2-3 hours,1027
+982,M,F,19,secondary,2,2,2,1,1,3,4,9,2-3 hours,1020
+983,M,F,16,primary,1,4,3,2,1,2,0,15,2-3 hours,457
+984,M,F,17,secondary,1,5,5,1,3,1,4,9,less than 2 hours,630
+985,M,F,16,secondary,3,4,5,1,2,1,1,11,2-3 hours,484
+986,M,F,16,secondary,2,5,2,1,2,5,0,17,2-3 hours,428
+987,M,M,15,primary,2,2,3,1,3,4,0,11,less than 2 hours,467
+988,M,M,17,none,1,1,2,1,1,5,4,12,less than 2 hours,554
+989,M,F,18,secondary,2,3,3,1,3,4,0,15,more than 3 hours,642
+990,M,F,18,secondary,3,3,3,1,1,4,0,0,2-3 hours,598
+991,M,M,15,primary,1,3,4,1,2,2,0,14,2-3 hours,443
+992,M,F,18,primary,1,3,4,1,1,1,0,8,2-3 hours,1038
+993,M,F,16,secondary,1,3,2,1,2,4,0,8,more than 3 hours,454
+994,M,F,16,primary,1,3,3,1,1,1,0,14,2-3 hours,499
+995,M,M,15,primary,1,3,4,1,2,2,7,8,2-3 hours,444
+996,M,M,18,primary,2,3,3,2,3,5,2,9,less than 2 hours,567
+997,M,M,19,primary,2,4,3,1,3,5,4,9,less than 2 hours,572
+998,M,M,16,primary,2,2,2,1,4,5,2,8,2-3 hours,533
+999,M,F,17,secondary,2,5,4,1,1,1,0,11,2-3 hours,643
+1000,M,M,18,secondary,2,4,3,4,3,3,0,0,less than 2 hours,641
+1001,M,F,16,secondary,2,2,1,1,1,1,4,11,more than 3 hours,435
+1002,M,M,18,higher education,2,2,2,2,2,5,0,13,more than 3 hours,1016
+1003,M,M,18,secondary,1,3,3,2,3,3,7,8,less than 2 hours,1002
+1004,M,M,17,higher education,1,4,4,3,4,5,8,8,2-3 hours,546
+1005,M,F,17,secondary,1,4,3,1,1,3,8,12,more than 3 hours,629
+1006,M,F,18,secondary,2,3,3,1,3,4,2,10,more than 3 hours,1035
+1007,M,F,16,primary,2,2,4,2,2,1,8,10,2-3 hours,540
+1008,M,M,16,secondary,4,1,3,2,2,3,0,10,more than 3 hours,528
+1009,M,F,18,secondary,2,2,1,1,1,4,5,15,more than 3 hours,612
+1010,M,F,17,primary,2,3,3,1,2,2,5,12,2-3 hours,608
+1011,M,F,17,secondary,1,5,5,1,3,1,14,5,less than 2 hours,1023
+1012,M,F,18,secondary,2,3,1,1,1,2,4,10,2-3 hours,602
+1013,M,F,18,higher education,3,4,3,2,2,5,4,10,less than 2 hours,644
+1014,M,M,21,primary,1,5,3,3,3,3,3,7,less than 2 hours,1042
+1015,M,M,18,secondary,3,3,3,2,3,3,3,10,less than 2 hours,628
+1016,M,F,18,primary,4,3,2,1,2,4,2,10,more than 3 hours,1025
+1017,M,F,19,primary,1,4,4,1,1,5,0,7,less than 2 hours,583
+1018,M,F,18,secondary,2,3,3,1,1,5,2,8,2-3 hours,582
+1019,M,M,19,primary,3,4,4,3,3,5,4,10,less than 2 hours,581
+1020,M,F,16,primary,1,2,1,1,1,5,0,14,more than 3 hours,504
+1021,M,F,18,secondary,1,4,4,3,4,2,8,10,less than 2 hours,576
+1022,M,M,18,secondary,1,4,5,1,3,3,9,8,2-3 hours,570
+1023,M,F,15,secondary,1,5,4,1,1,1,4,12,2-3 hours,471
+1024,M,M,15,primary,4,4,5,2,4,4,8,9,2-3 hours,446
+1025,M,M,18,primary,2,3,3,1,4,5,6,10,2-3 hours,562
+1026,M,M,17,primary,2,5,5,1,3,2,0,10,less than 2 hours,561
+1027,M,F,17,higher education,2,3,3,1,2,5,4,13,2-3 hours,1006
+1028,M,F,16,secondary,1,3,2,1,2,4,3,8,more than 3 hours,455
+1029,M,M,16,secondary,2,1,2,2,2,5,0,13,2-3 hours,551
+1030,M,F,17,secondary,2,3,3,2,2,1,5,11,less than 2 hours,541
+1031,M,F,17,primary,2,5,5,2,2,4,3,10,less than 2 hours,555
+1032,M,F,17,primary,1,4,4,2,2,5,0,7,less than 2 hours,433
+1033,M,F,15,primary,2,4,3,1,2,2,4,8,less than 2 hours,437
+1034,M,M,17,secondary,3,4,5,1,2,5,0,9,less than 2 hours,509
+1035,M,F,17,secondary,1,5,3,1,1,5,4,10,less than 2 hours,480
+1036,M,F,16,secondary,2,4,5,1,4,2,0,15,less than 2 hours,518
+1037,M,F,16,secondary,1,5,4,1,1,4,0,13,less than 2 hours,496
+1038,M,M,17,primary,3,1,3,3,3,1,0,10,2-3 hours,532
+1039,M,F,16,secondary,1,3,4,1,1,3,5,13,more than 3 hours,556
+1040,M,F,17,secondary,1,1,3,1,2,5,5,9,less than 2 hours,529
+1041,M,M,17,higher education,1,4,3,1,2,5,0,16,more than 3 hours,526
+1042,M,M,18,higher education,1,5,5,5,5,5,2,6,more than 3 hours,524
+1043,M,M,16,higher education,1,3,1,1,1,3,0,13,2-3 hours,470
