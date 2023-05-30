@@ -1,7 +1,7 @@
 Rating (1-5) and the number of ratings for each wine product
 Year: 2022
           
- ProductID   Rating  NumberOfRatings
+            ProductID                Rating           NumberOfRatings
              p001931                  3.5                   49
              p006460                  4.0                  139
              p012137                  3.8                   54
